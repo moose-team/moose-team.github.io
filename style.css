@@ -210,11 +210,11 @@ body {
 }
 
 .headline span:before { 
-    border-right: 1rem solid #705c4f;
+    border-right: 1rem solid #987e6d;
 }
 
 .headline span:after { 
-    border-left: 1rem solid #705c4f;
+    border-left: 1rem solid #987e6d;
 }
 
 .exhortation {
